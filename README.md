@@ -12,4 +12,7 @@ Referencing the figure above, lines 6 and 7 assign the output and select used fo
 
 # Question 2
 
+![IMG_1494](https://user-images.githubusercontent.com/98994111/200368912-0060acf2-1000-4ae3-bf50-a5eaddc772e8.jpg)
+
+
 # Question 3
