@@ -23,3 +23,7 @@ In part 2, a PWM signal with a 10% duty cycle and a 500ms period using the polli
 
 
 # Question 3
+
+![002](https://user-images.githubusercontent.com/98994111/200408518-a6219216-74bb-42cf-a7b3-ed462ec80b21.jpg)
+
+![LAB 4 Q3 - POLLING](https://user-images.githubusercontent.com/98994111/200408652-72a16f32-1228-4351-be7c-aed5e1b8570b.png)
