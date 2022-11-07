@@ -11,7 +11,7 @@ In the first part of this lab, we will follow the WDT timer interrupt process to
 Referencing the figure above, lines 6 and 7 assign the output and select used for the green LED on the board. The following line configures our board to a low power mode used for the WDT Timer Process. The next snippet of code, lines 11-16 configure the PWM period and duty cycle for this question. The last part of the code uses a while loop to continue the blinking LED.
 
 # Question 2
-
+In part 2, a PWM signal with a 10% duty cycle and a 500ms period using the polling process. The duty cycle can be calculated by finding the ratio of TB0CCR1 / TB0CCR0. TB0CCR0 can be calculated by multiplying the clock frequency chosen by the period. The clock that was chosen was the auxilary clock which has a frequency of 32.768 kHz. When multiplying this frequency by the 500 ms period, TB0CCR0 will contain a value of 16,384 Hz. TB0CCR1 can now be calculated by multiplying 16,384 Hz by the 10% duty cycle, which will result in a value of 1638.4 Hz.
 ![IMG_1494](https://user-images.githubusercontent.com/98994111/200368912-0060acf2-1000-4ae3-bf50-a5eaddc772e8.jpg)
 
 
