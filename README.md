@@ -1,6 +1,6 @@
 # LAB 4
 
-This lab serves as an introduction to utilizing PWM and Timers on the MSP430FR2355 Microcontroller.
+This lab serves as an introduction to utilizing PWM and Timers on the MSP430FR2355 Microcontroller. In this lab, we will explore the WDT timer interrupt process, as well as implementing PWM signals at various duty cycles and periods.
 
 # Question 1
 
