@@ -26,4 +26,6 @@ In part 2, a PWM signal with a 10% duty cycle and a 500ms period using the polli
 In the third part of this lab, we are tasked with generating another PWM signal but this time with a 20% duty cycle and a 250ms period. Similar to part 2, we use the same auxilary clock frequency of 32.768 will be used. When following the same approach of calculating TB0CCR0 and TB0CCR1, we get values of 8192 and 1638.4 respectively. The following figure shows the hand calculation used for this test:
 ![002](https://user-images.githubusercontent.com/98994111/200408518-a6219216-74bb-42cf-a7b3-ed462ec80b21.jpg)
 
+The following figure shows when analyzing the PWM signal on an oscilloscope. When reading the oscilloscope, we can see a duty cycle of 20.01% and a period of 250.3ms
+
 ![LAB 4 Q3 - POLLING](https://user-images.githubusercontent.com/98994111/200408652-72a16f32-1228-4351-be7c-aed5e1b8570b.png)
